@@ -1,1 +1,2 @@
 john added line 1 added by john
+peter added line2
